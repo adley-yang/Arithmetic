@@ -4,7 +4,7 @@ package com.study.demo.sort;
  * Project Name:Arithmetic
  * Package Name:com.study.demo.sort
  * Date:14-11-26 下午7:07
- * Copyright (c) 2014, zyyang3@iflytek.com All Rights Reserved.
+ * Copyright (c) 2014, adleyyang.cn@gmail.com All Rights Reserved.
  */
 class ArraySel
 {
